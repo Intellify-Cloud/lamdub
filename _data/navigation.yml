@@ -1,8 +1,5 @@
 nav:
-  - title: "Why Us"
-    section: textblock
-
-  - title: "Services"
+  - title: "Overview"
     section: services
     
   - title: "Team"
@@ -11,11 +8,11 @@ nav:
   - title: "About"
     section: about
 
-  - title: "Calculators"
-    section: calculators
+  - title: "Services"
+    section: textblock
 
   - title: "Contact"
     url: /contact
 
-  - title: "Blog"
+  - title: "Featured Projects"
     section: articles

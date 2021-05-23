@@ -6,7 +6,7 @@
 $header-image: "./img/header1.jpg";
 $contact-image: "./img/contact.png";
 
-$primary: #00ACC8;
+$primary: #e32425;
 $white: #fff;
 $black: #000;
 $input-height:calc(#{$input-height-inner} + #{$input-height-border});
@@ -41,7 +41,7 @@ $enable-gradients:false;
 body {
     overflow-x: hidden;
     // font-family: "Roboto Slab","Roboto Condensed",sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Roboto', sans-serif;
     webkit-tap-highlight-color: $primary;
 }
 
