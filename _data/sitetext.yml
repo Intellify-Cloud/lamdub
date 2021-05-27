@@ -11,29 +11,31 @@ services:
     text: "At Lamdubeni Construction we build new homes, renovations, maintenance and additions and shop fitting in the Nelson Mandela Bay metro area. With years of experience in the building and construction business in Gqeberha (Port Elizabeth) and the surrounding areas. We focus on general construction,industrial and residential, roofing and general carpentry, partitioning and ceilings, concrete and steel fixing."
     section: services
     list:
-      - title: "Design"
-        desc: "Our clients design their own projects through architectural support and consultation. We then develop your remarkable experience"
+      - title: "Cape Town"
+        desc: "We help you develop your dream, visit us at 23 Templar Street, Hagley, Kuils River, Western Cape, 7580 or contact us below."
         icon: fas fa-swatchbook
         link: 
-          url: mailto:brain@lamdubeni.co.za?subject=Mail from Lamdubeni website
-          text: "Email Us"
-      - title: "Pre-qualification"
-        desc: "I help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
-        icon: fas fa-pencil-ruler     
-        link:
-          url: tel:+27794855355
-          text: "Call: 079 485 5355"
-      - title: "Still Looking for a Home"
-        desc: "I’m searching property portals and visiting show houses but have a few questions."
-        icon: fas fa-drafting-compass
-        link: 
-          url: mailto:lamdubeniptyltd@gmail.com?subject=Mail from evo Vania Leonard website
+          url: mailto:lamdubeniptyltd@gmail.com?subject=Mail from Lamdubeni website | Cape Town
           text: "Email Us"
 
-articles:
+      - title: "Port Elizabeth"
+        desc: "Email us or visit us at Unit 12 Salford Court, Central, Port Elizabeth, 6001, Eastern Cape."
+        icon: fas fa-swatchbook  
+        link:
+          url: mailto:lamdubeniptyltd@gmail.com?subject=Mail from Lamdubeni website | PE
+          text: "Email Us"
+
+      - title: "Johannesburg"
+        desc: "Contact us via email or visit us at 208 Erand Court, Vodacom Boulevard, Midrand, 1682, Gauteng"
+        icon: fas fa-swatchbook
+        link: 
+          url: mailto:lamdubeniptyltd@gmail.com?subject=Mail from Lamdubeni website | Johannesburg
+          text: "Email Us"
+
+projects:
     title: "Featured Projects "
     text: "Here are some of our recent projects that will help showcase our capabilities and competencies."
-    section: articles
+    section: projects
 
 calculators:
     title: "Home Loan Calculators"
@@ -174,7 +176,7 @@ team:
     people:
       - name: "Nelisiwe Brenda Ndlala"
         role: "Managing Director"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/profile.png
         social:
           - url: tel:079 485 5355
             icon: fas fa-phone
@@ -207,12 +209,12 @@ contact:
     section: team
     
 footer:
-    legal: "Powered by the evo Group"
+    legal: ""
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"  
-      - url: https://www.facebook.com/EvoVaniaLeonard
-        icon: "fab fa-facebook-f"
+      # - url: https://www.facebook.com/EvoVaniaLeonard
+      #  icon: "fab fa-facebook-f"
       # - url: https://linkedin.com
       #   icon: "fab fa-linkedin-in"
       # - url: https://github.com/raviriley/agency-jekyll-theme

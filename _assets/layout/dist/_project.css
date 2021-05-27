@@ -1,0 +1,21 @@
+body {
+  background-color: #cccccc;
+ }
+
+.project-heading {
+  margin: 15px 0;
+  text-transform: none;
+}
+
+#project .card {
+  border: none;
+}
+
+#project .card .card-footer {
+  border: none;
+  background: none;
+}
+
+#project .btn {
+  border-radius: 30px;
+}
