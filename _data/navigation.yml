@@ -2,17 +2,21 @@ nav:
   - title: "Overview"
     section: services
     
-  - title: "Team"
-    section: team
+  - title: "Services"
+    section: textblock
 
   - title: "About"
     section: about
 
-  - title: "Services"
-    section: textblock
+  - title: "Team"
+    section: team
+
+  - title: "Featured Projects"
+    section: projects
 
   - title: "Contact"
     url: /contact
 
-  - title: "Featured Projects"
-    section: articles
+
+
+
