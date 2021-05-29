@@ -14,7 +14,6 @@ background: grey
 
   <div class="col-md">
 		<p>Cell: <a href="tel:+27813272421"> 081 327 2421</a></p>
-		<p>Cell: <a href="tel:+27794855355">079 485 5355</a></p>
 		<p>E-mail: <a href="mailto:lamdubeniptyltd@gmail.com?subject=Mail from our Website">lamdubeniptyltd@gmail.com</a></p>
     </div>
 

@@ -178,7 +178,7 @@ team:
         role: "Managing Director"
         image: assets/img/team/profile.png
         social:
-          - url: tel:079 485 5355
+          - url: tel:xxx xxx xxxx
             icon: fas fa-phone
           - url: mailto:lamdubeniptyltd@gmail.com?subject=Website Enquiry
             icon: fas fa-envelope
