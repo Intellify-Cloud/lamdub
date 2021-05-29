@@ -39,7 +39,5 @@ background: grey
   </div>
 </div>
 
-{% include team.html %}
-
 <br>
 
