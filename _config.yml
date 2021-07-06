@@ -22,4 +22,6 @@ webserver_headers:
 logo:
   path: /assets/logo.png
 
+company: Lambdubeni Pty Ltd
+
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
