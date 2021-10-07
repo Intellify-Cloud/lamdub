@@ -86,13 +86,17 @@ textblock:
     footer: ""
     section: textblock
     list:
+      - title: "Bulk pipelines"
+        image: "fa-chevron-right"
       - title: "Carpentry"
         image: "fa-chevron-right"
       - title: "Ceiling and Bulkheads."
         image: "fa-chevron-right"
       - title: "Drywalling and Partitioning"
         image: "fa-chevron-right"
-      - title: "General building and civil works"
+      - title: "Civil Works"
+        image: "fa-chevron-right"
+      - title: "General building"
         image: "fa-chevron-right"
       - title: "Horticulture and Landscaping"
         image: "fa-chevron-right"
@@ -103,6 +107,8 @@ textblock:
       - title: "Paving"
         image: "fa-chevron-right"
       - title: "Plastering"
+        image: "fa-chevron-right"
+      - title: "Road construction"
         image: "fa-chevron-right"
 portfolio:
     title: "Other Services"
