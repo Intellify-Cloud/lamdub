@@ -1,0 +1,92 @@
+<!-- Articles -->
+<section class="bg-light page-section" id="{{ site.data.sitetext.projects.section | default: "services" }}">
+    <div class="container">
+	
+      <!-- Title -->
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.projectgallery.title | default: "Articles" }}</h2>
+
+          {% if site.data.sitetext.projectgallery.text %}
+          
+		  <h3 class="section-subheading text-muted">{{ site.data.sitetext.projectgallery.text }}</h3>
+		  {% endif %}
+        </div>
+      </div>
+      <!-- Title End -->
+	  
+      <!-- Card Deck -->
+      <!-- <div class="card-deck project">
+	        {% for post in site.posts limit:3 %}
+
+           <div class="card">
+              <div class="card-body text-center">
+                <img class="card-img-top" src="{{ post.image }}" alt="Card image cap">
+                <h4 class="card-title service-heading">{{ post.title | markdownify }}</h4>
+                <div class="text-muted">{{ post.excerpt | markdownify }}</div>
+                {{ post.category}}
+              </div>
+            
+            </div>
+
+          {% endfor %}
+      </div> -->
+      <!-- Card Deck End -->
+
+      <!-- Gallery -->
+      
+<div class="row">
+  <!-- Left -->
+  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+    <img
+      src="/assets/img/projectsgallery/1.jpeg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+
+    <img
+      src="/assets/img/projectsgallery/2.jpeg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+  </div>
+<!-- Left End -->
+<!-- Middle Start -->
+  <div class="col-lg-4 mb-4 mb-lg-0">
+    <img
+      src="/assets/img/projectsgallery/3.jpeg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+
+    <img
+      src="/assets/img/projectsgallery/5.jpeg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+
+  </div>
+<!-- Middle End -->
+<!-- Right Start -->
+  <div class="col-lg-4 mb-4 mb-lg-0">
+   
+    <img
+      src="/assets/img/projectsgallery/4.jpeg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+
+    <img
+      src="/assets/img/projectsgallery/6.jpeg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+  </div>
+
+  
+</div>
+<!-- Gallery -->
+	  
+    </div>
+  </section>
+<!-- End Articles -->

@@ -37,6 +37,11 @@ projects:
     text: "Here are some of our recent projects that will help showcase our capabilities and competencies."
     section: projects
 
+projectgallery:
+    title: "Recent Projects "
+    text: "Here is a recent road construction project that we completed."
+    section: projects
+
 calculators:
     title: "Home Loan Calculators"
     text: "Use our Home loan Calculators to work out the size of home loan you are likely to qualify for and what your bond repayments will be."
